@@ -1,7 +1,6 @@
 # Ride-Hailing Demand & Pricing Insights (Uber & Lyft)
 
-‬
-Rideshare services, such as Uber and Lyft, have become essential for urban commuters,‬ particularly in adverse weather conditions or for longer journeys. As leading players in the‬
+‬Rideshare services, such as Uber and Lyft, have become essential for urban commuters,‬ particularly in adverse weather conditions or for longer journeys. As leading players in the‬
 ‭rideshare market, Uber and Lyft face significant competition and complex operational‬ challenges. This research aims to identify the patterns influencing customer preferences between‬
 ‭these two services, investigating whether factors like cost, weather conditions, and service‬ features impact their choices.‬
 
